@@ -12,9 +12,11 @@ Buy & Hold: ~170%
 Период: 2020–2026
 
 Линейная диаграмма:
+
 ![alt text](linear.png)
 
 Столбчатая:
+
 ![alt text](barchart.png)
 
 
